@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "a1e8fb579ef8f0e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fe7b7c741409ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "402718168cd81cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестовое задание.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaeb80a4d72e2622",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ecd6eaf720f3de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd736b52a7a5362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f85b5c227b6f624",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25869e654fb66e27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f11849757ede54fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "543ebb3880e8fb29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0065937269869f35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тестовое задание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8a3f04d1f95a8c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тестовое задание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cf6525f1296ee83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5153e2c65b21d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тестовое задание.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cbd736b52a7a5362",
+  "lastOpenFiles": [
+    "схемы/взаимодействие.drawio.png",
+    "схемы/статусная модель заказа 1.drawio.png",
+    "схемы/путь заказа 1 .drawio.png",
+    "схемы",
+    "Welcome.md",
+    "Тестовое задание.md",
+    "Pasted image 20240308022154.png"
+  ]
+}
